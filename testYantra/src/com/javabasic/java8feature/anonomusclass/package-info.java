@@ -1,0 +1,1 @@
+package com.javabasic.java8feature.anonomusclass;
